@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Localizei.me",
+  "version": "0.2",
+  "permissions": ["webview", "geolocation"],
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  },
+  "icons": { "16": "img/16x16.jpg", "128": "img/128x128.jpg" }
+
+}
