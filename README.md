@@ -10,7 +10,7 @@ localizeime
   Quem nunca precisou encontrar um hotel ou restaurante por perto? Com certeza é uma necessidade de todos e no hackathon resolvemos criar a aplicação que localiza nossa geo localização e encontra os principais pontos ao seu redor, hoteis, hospitais, restaurantes e etc.
 
 
-<h2>Instação</h2>
+<h2>Instalação</h2>
 
 1. Faça o download na Chrome Web Store <a href="https://chrome.google.com/webstore/detail/localizei-beta/ihappndkmffngabclkkpebgnbchlbhjg?utm_source=plus"> aqui </a>.
 
